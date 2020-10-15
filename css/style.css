@@ -91,7 +91,7 @@ section.second p{
     line-height: 22px;
 }
 .last-section{
-    background-image: url("/img/list-bg.png");
+    background-image: url('../img/list-bg.pn');
     background-size: cover;
     background-repeat: repeat-x;
     height: 300px;
@@ -172,7 +172,7 @@ footer div h5{
     color: gray;
 }
 .breack{
-    background-image: url('img/breaks.PNG');
+    background-image: url('../img/breaks.PNG');
     background-size: cover;
     width: 100%;
     height: 25px;
